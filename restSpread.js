@@ -37,4 +37,4 @@ console.log(Math.max(...arr3)); // 9
 
 // an example with a function that accepts 3 seperate values
 const sumValues = (a, b, c) => a + b + c;
-console.log(sumValues(...arr3)); // 24
+console.log(sumValues(...arr3)); // 24 
